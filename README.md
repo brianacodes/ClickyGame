@@ -1,0 +1,1 @@
+This is a memory game with React. The application is broken on the UI side into components which are managed by component state, and responds to user events.
